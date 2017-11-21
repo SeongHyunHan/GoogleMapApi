@@ -1,8 +1,8 @@
 # GoogleMapApi
 
-Language: Swift 4
-Targeted Device: Any device using iOS
-API used Google Map API and Walmart Api
+- Language: Swift 4
+- Targeted Device: Any device using iOS
+- API used: Google Map API
 
 App Description
  - Using Google Map API to display maps
