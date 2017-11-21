@@ -10,4 +10,5 @@ App Description
  
  Initial Commit
   - Create Project
-  - Implement GoogleMapApi
+  - Implemented GoogleMap Api
+  - Show Fixed Location (Sydney, Austrailia)
