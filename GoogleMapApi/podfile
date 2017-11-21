@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+project '/Users/xcode/Desktop/Practice/GoogleMapApi/GoogleMapApi.xcodeproj'
+
+target 'GoogleMapApi' do
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+end
